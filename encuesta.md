@@ -1,0 +1,1 @@
+#Aprender mucho sobre python para poder desarrollar soluciones utiles en el futuro.
